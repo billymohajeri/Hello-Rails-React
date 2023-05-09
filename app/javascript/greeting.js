@@ -21,7 +21,7 @@ function Greeting() {
   }
 
   return (
-    <div className="my-class" id="my-element">
+    <div className="text-class">
       <h1>{greeting}</h1>
     </div>
   );
